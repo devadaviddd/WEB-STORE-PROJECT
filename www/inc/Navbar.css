@@ -1,0 +1,91 @@
+body {
+  margin: 0px;
+}
+
+header {
+  margin: 0px;
+  font-family: "Lucida Sans Regular";
+}
+
+.cust_nav {
+  overflow: hidden;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding-top: 17px;
+  background-color: white;
+}
+
+.cust_nav #logo {
+  padding-left: 70px;
+  padding-top: 6px;
+  text-align: center;
+}
+
+.cust_nav .right_options {
+  padding-right: 40px;
+  text-align: center;
+}
+
+.cust_nav .icon {
+  padding-right: 30px;
+}
+
+.cust_nav .search_container {
+  padding-left: 50px;
+}
+
+.search_container form {
+  display: flex;
+}
+
+.cust_nav input[type="text"] {
+  padding: 5px;
+  border: none;
+  border-radius: 8px 0px 0px 8px;
+  outline: none;
+  font-size: 22px;
+  background-color: #f2f2f2;
+  width: 500px;
+  height: 100%;
+}
+
+.search_container button {
+  float: right;
+  border: none;
+  border-radius: 0px 8px 8px 0px;
+  cursor: pointer;
+  font-size: 27px;
+}
+
+.cust_nav input[type="text"]::placeholder {
+  padding-left: 22px;
+  font-size: 18px;
+}
+
+.cust_nav input[type="text"]:focus {
+  border: none;
+}
+
+.cust_nav input[type="text"]:focus::placeholder {
+  visibility: hidden;
+}
+
+main {
+  padding-top: 1px;
+}
+
+.Infobar {
+  background-image: linear-gradient(to right, #a7cccc, #8596a7);
+  /* margin-top: 17px; */
+  text-align: center;
+  height: 70px;
+}
+
+.Infobar p {
+  margin: 0;
+  padding-top: 12px;
+  font-size: 30px;
+  font-weight: 100;
+  font-family: "Lucida Sans Unicode";
+}

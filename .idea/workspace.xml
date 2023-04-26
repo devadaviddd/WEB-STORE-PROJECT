@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9c8465f2-0f21-4f58-9eeb-05f8ab289edd" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db/account.db" beforeDir="false" afterPath="$PROJECT_DIR$/db/account.db" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db/order.db" beforeDir="false" afterPath="$PROJECT_DIR$/db/order.db" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db/product.db" beforeDir="false" afterPath="$PROJECT_DIR$/db/product.db" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/.vscode/launch.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Broker/CustomerBroker.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Broker/DataFile.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Broker/ShipperBroker.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Broker/SystemBroker.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Broker/UserBroker.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Broker/VendorBroker.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Model/Customer.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Model/Hub.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Model/Order.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Model/OrderStatus.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Model/Product.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Model/Role.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Model/Shipper.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Model/System.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Model/User.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Model/Vendor.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/View/CustomerPage/Allproductpage.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/View/CustomerPage/Allproductpage.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/View/CustomerPage/Productdetails.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/View/CustomerPage/Productdetails.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/View/CustomerPage/Shoppingcart.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/View/CustomerPage/Shoppingcart.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/View/RegisterPage/Customer/customerRegister.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/View/RegisterPage/Customer/customerRegister.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/View/RegisterPage/RegisterPage.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/View/RegisterPage/Shipper/shipperRegister.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/View/RegisterPage/Shipper/shipperRegister.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/View/RegisterPage/Vendor/vendorRegister.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/View/RegisterPage/Vendor/vendorRegister.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/View/RegisterPage/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/View/ShareComponent/footer.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/View/ShareComponent/header.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/View/ShipperPage/ShipperPage.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/View/ShipperPage/ShipperPage.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/View/UserPage/LoginPage.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/View/UserPage/LoginPage.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/View/UserPage/Logout.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/View/UserPage/ProfilePage.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/View/UserPage/session.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/View/VendorPage/VendorPage.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/View/VendorPage/VendorPage.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/View/VendorPage/addProductPage.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/View/VendorPage/addProductPage.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/image/124021.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/image/63146760c5adb.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/image/63147a137e3b2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/image/631acf21223c3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/image/631acf5c4b3bf.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/image/631ad60165155.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/image/631b9a37c327f.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/image/631b9b361408b.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/image/631b9c20991d6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/image/631b9da0750c3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/image/631ba2a706b3d.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/image/631ba4948e122.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/image/631ba56d392fb.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/image/631ba9512ca3b.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/image/631bac3abab73.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/image/631bacf880f78.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/image/631bad0fbc67c.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/image/631bad1de2eba.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/image/631bad2c5d441.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/image/631bad3626e3c.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/image/631bad7fd2f82.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/image/631bad863e21e.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/image/631bad9e96b97.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/image/631badc5119c7.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/image/631bd4fe5b9bc.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/image/631c779aa42ae.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/image/631c8565e33e2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/image/631c9a43cc17d.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/image/P001.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/image/P002.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/image/P003.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/image/P004.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/image/P005.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/image/P006.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/image/P007.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/image/P008.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/image/P010.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/image/aOsHknZja.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/image/atclogo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/image/background.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/image/customer.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/image/facebook-logo.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/image/heart.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/image/icon/address.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/image/icon/businessname.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/image/icon/name.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/image/icon/password.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/image/icon/search.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/image/icon/star.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/image/icon/store.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/image/lazadalogo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/image/minus.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/image/myaccountlogo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/image/parcel.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/image/plus.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/image/product.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/image/remove.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/image/shipper.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/image/user.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/image/vendor.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/inc/Allproductpage.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/inc/Navbar.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/inc/Productdetails.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/inc/ShoppingCart.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/inc/footer.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/inc/login.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/inc/profile.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/inc/registerPage.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/inc/shipper.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/inc/vendor_product.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.php" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2G048ycPwmoGPZZFZzJ2rwSFlzM" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9c8465f2-0f21-4f58-9eeb-05f8ab289edd" name="Changes" comment="" />
+      <created>1665512011244</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1665512011244</updated>
+      <workItem from="1665512012621" duration="634000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
